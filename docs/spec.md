@@ -163,6 +163,21 @@ Program terminates immediately.
 
 ---
 
+### help
+
+Show usage information.
+
+Syntax:
+```
+help
+```
+
+Output:
+
+Help text describing available commands and examples.
+
+---
+
 ## 5. Error Handling
 
 If syntax is invalid or arguments are missing:
